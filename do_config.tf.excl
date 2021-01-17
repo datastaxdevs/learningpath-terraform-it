@@ -1,0 +1,7 @@
+provider "digitalocean" {
+  token = "d130caaa4e81e6d515693b7a727164cb8e9df2c42d53cd66fd12ae1c2e45a06a"
+}
+resource "digitalocean_ssh_key" "default" {
+  name       = "Terraform"
+  public_key = file("~/.ssh/id_rsa.pub")
+}
