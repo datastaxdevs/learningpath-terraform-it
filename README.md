@@ -5,7 +5,8 @@ Welcome to Infrastructure as Code first touch workshop!
 ## Materials
 
 * [Workshop](https://youtu.be/d4bxNeVAduA)
-* [Presentation](./terraform-it-slides.pdf)
+* [Presentation](./slides.pdf)
+* [Article draft](./article-draft.pdf)
 
 ## Practice
 
