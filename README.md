@@ -23,6 +23,6 @@ Welcome to Infrastructure as Code first touch workshop!
 * `terraform init`
 * `terraform plan`
 * `terraform apply` <-- infra created
-* `terraform destroy`.  <-- infra terminated
+* `terraform destroy`  <-- infra terminated
 
 **IMPORTANT** Don't forget to remove infra otherwise there may be costs. 
